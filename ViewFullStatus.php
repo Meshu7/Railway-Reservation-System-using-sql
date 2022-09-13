@@ -173,7 +173,7 @@ mysqli_select_db($conn,"$db_name") or die("cannot select db");
 			<p class="text-right text-info">  &copy; 2021 Copyright PVT Ltd.</p>	
 			</div>
 			<div style="float:right;">
-			<p class="text-right text-info">	Desinged By : Meshu & Khushi</p>
+			<p class="text-right text-info">	Desinged By : Meshu Priy</p>
 			</div>
 		</div>
 		</footer>
