@@ -150,7 +150,7 @@ $result=mysql_query($sql);
 			<p class="text-right text-info">  &copy; 2021 Copyright PVT Ltd.</p>	
 			</div>
 			<div style="float:right;">
-			<p class="text-right text-info">	Desinged By : Meshu & Khushi</p>
+			<p class="text-right text-info">	Desinged By : Meshu Priy</p>
 			</div>
 		</div>
 		</footer>
