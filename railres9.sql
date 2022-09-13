@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 13, 2016 at 03:20 PM
+-- Generation Time: Sep 13, 2022 at 10:55 AM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `railway`
+-- Database: `railres9`
 --
 
 -- --------------------------------------------------------
@@ -45,12 +45,12 @@ CREATE TABLE IF NOT EXISTS `passengers` (
 --
 
 INSERT INTO `passengers` (`p_id`, `p_fname`, `p_lname`, `p_age`, `p_contact`, `p_gender`, `email`, `password`, `t_no`) VALUES
-(1, 'Rahul', 'Dravid', '42', '9090909090', 'Male', 'rahul@dravid.com', '123123123', 16205),
-(2, 'Rahul', 'Dravid', '29', '1010101010', 'Male', 'qwe@w.cc', '123123123', NULL),
+(1, 'Meshu', 'Priy', '21', '9090909090', 'Male', 'meshu7@gmail.com', '123123123', 16205),
+(2, 'Meshu', 'Priy', '22', '1010101010', 'Male', 'meshu@gmail.com', '123123123', NULL),
 (4, 'qwe', 'qwe', '19', '1010101010', 'Male', '123@123.cc', '123123123', NULL),
 (5, 'abc', 'sbc', '19', '9090909090', 'Male', 'abc@g.cc', '123123123', 12951),
-(6, 'sumit', 'sharma', '20', '9999999999', 'Male', 'sharma@gmail.com', '123123123', 12951),
-(7, 'dhruv', 'mehta', '20', '9191919191', 'Male', 'dhruv@gmail.com', '123123123', 16205);
+(6, 'Travood', 'sharma', '20', '9999999999', 'Male', 'travood@gmail.com', '123123123', 12951),
+(7, 'Eduardo', 'mehta', '20', '9191919191', 'Male', 'edu@gmail.com', '123123123', 16205);
 
 -- --------------------------------------------------------
 
